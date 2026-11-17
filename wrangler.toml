@@ -1,0 +1,12 @@
+name = "devforge"
+main = "worker.js"
+
+[observability]
+enabled = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "devforge-db"
+
+[vars]
+JWT_SECRET = "devforge-replace-this-with-a-long-random-string"
