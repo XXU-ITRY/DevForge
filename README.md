@@ -6,7 +6,7 @@
 
 A lightweight, self-hostable developer collaboration platform — teams, projects, channels, file sharing, and Git insights in one place.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR_USERNAME/devforge)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/XXU-ITRY/DevForge/)
 
 [Features](#features) · [Quick Start](#quick-start) · [Architecture](#architecture) · [Development](#local-development) · [Deployment](#deployment) · [Configuration](#configuration) · [Security](#security) · [License](#license)
 
