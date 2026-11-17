@@ -9,5 +9,9 @@ enabled = true
 binding = "DB"
 database_name = "devforge-db"
 
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "devforge-files"
+
 [vars]
-JWT_SECRET = "devforge-replace-this-with-a-long-random-string"
+JWT_SECRET = "devforge-replace-this-with-a-long-random-string-CHANGE-ME"
